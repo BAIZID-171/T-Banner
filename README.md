@@ -10,3 +10,16 @@
 <a href="https://img.shields.io/badge/Tool-T-Banner-green.svg"></a>
 
 <a href="https://BAIZID-171.github.io/"><img title="Version" src="https://img.shields.io/badge/Version-1.6-green.svg?style=flat-square"></a>
+
+
+  # Install Command For Termux 
+
+apt update
+
+apt install git -y
+
+git clone https://github.com/BAIZID-171/T-Banner.git
+
+cd T-Banner
+
+bash Banner.sh
