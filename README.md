@@ -23,15 +23,3 @@ git clone https://github.com/BAIZID-171/T-Banner.git
 cd T-Banner
 
 bash Banner.sh
-
-# [2]Install command For Termux 
-
-apt update
-
-apt install git -y
-
-git clone https://github.com/htr-tech/Tbanner
-
-cd Tbanner
-
-bash setup.sh
