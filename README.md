@@ -7,6 +7,6 @@
 
 <p align="center">
 
-<a href="https://BAIZID-171.github.io/"><img title="Made in BANGLADESH" src="https://img.shields.io/badge/Tool-T-Banner-green.svg"></a>
+<a href="https://img.shields.io/badge/Tool-T-Banner-green.svg"></a>
 
 <a href="https://BAIZID-171.github.io/"><img title="Version" src="https://img.shields.io/badge/Version-1.6-green.svg?style=flat-square"></a>
