@@ -12,7 +12,7 @@
 <a href="https://BAIZID-171.github.io/"><img title="Version" src="https://img.shields.io/badge/Version-1.6-green.svg?style=flat-square"></a>
 
 
-  # Install Command For Termux 
+  # [1]Install Command For Termux 
 
 apt update
 
@@ -23,3 +23,15 @@ git clone https://github.com/BAIZID-171/T-Banner.git
 cd T-Banner
 
 bash Banner.sh
+
+# [2]Install command For Termux 
+
+apt update
+
+apt install git -y
+
+git clone https://github.com/htr-tech/Tbanner
+
+cd Tbanner
+
+bash setup.sh
